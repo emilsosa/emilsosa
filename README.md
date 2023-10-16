@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Contributions](https://github.com/emilsosa/emilsosa/blob/main/profile-3d-contrib/profile-green.svg)
+
 <!--
 **emilsosa/emilsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
