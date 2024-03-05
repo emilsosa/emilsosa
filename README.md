@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- ![Contributions](https://github.com/emilsosa/emilsosa/blob/main/profile-3d-contrib/profile-green.svg) -->
+![Contributions](https://github.com/emilsosa/emilsosa/blob/main/profile-3d-contrib/profile-green.svg)
 
 <!-- ![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilsosa&show_icons=true) -->
 
