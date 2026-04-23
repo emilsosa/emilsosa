@@ -7,5 +7,3 @@ I've been building cool products @ [Magaran Software](https://github.com/magaran
 Very passionate about new tech.
 
 ![Contributions](https://github.com/emilsosa/emilsosa/blob/main/profile-3d-contrib/profile-green.svg)
-
-Here are some ideas to get you started:
